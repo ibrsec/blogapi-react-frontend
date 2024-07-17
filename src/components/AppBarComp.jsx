@@ -31,7 +31,7 @@ export default function AppBarComp() {
                 </Button>
               </Box>
             ) : (
-              <Box sx={{border:"1px solid red"}}>
+              <Box >
                 <Link to="/login">
                 <Button variant="outlined" sx={{ color: "lightgreen" }}>
                   Login
