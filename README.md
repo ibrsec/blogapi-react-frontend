@@ -69,7 +69,7 @@
 <a name="about-the-project"></a>
 ## ℹ️ About The Project
 
-[![blogapp-frontend-react](./public/project.gif)](https://blogapp-frontend-react-nextjs.vercel.app/)
+[![blogapp-frontend-react](./public/project.gif)](https://blogapp-frontend-react.vercel.app)
 
 
 
